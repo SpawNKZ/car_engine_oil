@@ -370,10 +370,8 @@ ul.btn li:last-child {
 }
 
 .logo a {
-     font-size: 40px;
+     font-size: 30px;
      font-weight: bold;
-     text-transform: uppercase;
-     color: #fff;
      line-height: 40px;
 }
 
